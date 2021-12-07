@@ -1,5 +1,5 @@
 # Space SHMUP
-## Unity C# - Horror Game
+## Unity C# - Space SHMUP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Space-SHMUP/main/Screenshots/SHUMP_Title.png?raw=true"/>
