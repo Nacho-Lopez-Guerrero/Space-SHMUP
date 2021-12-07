@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Space-SHMUP/main/Screenshots/SHUMP_Title.png?raw=true"/>
 </p>
 
-![Alt text](/Screenshots/GhostHouseVR_1.png?raw=true )
+![Alt text](/Screenshots/SHUMP_1.png?raw=true )
 
 ## English
 ###### About this game:
